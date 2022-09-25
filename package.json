@@ -1,0 +1,33 @@
+{
+  "name": "node-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/William-Koerich/Node-Tdd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/William-Koerich/Node-Tdd/issues"
+  },
+  "homepage": "https://github.com/William-Koerich/Node-Tdd#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.38.0",
+    "eslint": "^8.24.0",
+    "eslint-config-standard-with-typescript": "^23.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.3.0",
+    "eslint-plugin-promise": "^6.0.1",
+    "typescript": "^4.8.3",
+    "vitest": "^0.23.4"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.3"
+  }
+}
